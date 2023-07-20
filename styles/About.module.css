@@ -1,0 +1,16 @@
+.header {
+
+  box-sizing: border-box;
+  display: table;
+  margin:  31px;
+  overflow: hidden;
+  color: #2e3092;
+  font-family: "Bree Serif"
+}
+
+
+.content {
+  padding: 1rem;
+  color: #747474;
+  font-family: "Bree Serif"
+}

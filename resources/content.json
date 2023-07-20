@@ -1,0 +1,52 @@
+{
+    "Home": {
+
+        "Floating-Text": "Together \n we can make a difference",
+        "Donate-Link": "https://www.paypal.com/donate?hosted_button_id=QL6W9GJDW9TXW",
+        "Info-Founded": "Founded in 1986 \n For more than 30 years, Clover LEAF has provided grants to teachers to support innovative classroom projects that foster engagement in our community.",
+        "Info-Project": "Project Funding \n Thousands of students have been positively impacted through innovative projects that, without our financial support, would not have been realized.",
+        "Info-Board": "Our Board Members \n Clover LEAF is comprised of volunteer community members who have a love and passion for the students and teachers of the Clover School District."
+
+        
+    },
+    "About": {
+      "About-Header": "About Clover LEAF Foundation",
+      "About-Content": "The Clover Leaders for Educational Advancement Foundation, Inc. (dba Clover LEAF) is a non-profit organization dedicated to supporting teachers and students in the Clover School District. For more than 30 years, Clover LEAF has provided grants to teachers to support innovative classroom projects and programs to foster engagement and innovation inside and outside of the school community. Since its founding in 1986, Clover LEAF has granted more than $150,000 to teachers in the Clover School District. In this effort, thousands of students have been positively impacted through innovative projects that, without our financial support, would not have been realized."
+    },
+    "Application":{
+      "Application-Content": "CloverLEAF grants will return in the spring of 2022.  Once open, the new application will be available here. \n Have a great year!"
+    },
+    "Board": {
+      "Board-Header": "Meet Our Board Members",
+      "Board-Content-Info": "Clover LEAF is comprised of community members who have a passion for the students and teachers of the Clover School District. The all-volunteer board manages the grants program and administers fundraising projects each year to ensure the viability of the organization for years to come.",
+      "Board-Members": ["Windy Bartee", "Gerald Bolin", "Sherri Ciurlik", "Jessica Cody", "Diana Currence", "Esther Davis", "Bryan Dillon", "Jay Dover", "Frank Gadsden", "Teresa Glass", "Jim Gover", "Dr. Christopher Haring", "Roberta Herold", "Jackie Hicks", "Kelly Hodges", "Ken Love", "Kathy MacMahon", "Ginger Marr, CSD Representative", "Penny McClure", "Catherine Myrick", "Franklin Pendleton", "Cara Tully", "Scott Wallace", "Amarintha Whitener"],
+      "Officers": ["Jackie Hicks, President", "Sherri Ciurlik, Vice President - Grants", "Jessica Cody, Vice President U+2013 Fundraising", "George Pendleton, Treasurer", "Wendy Bartee, Co-Secretary", "Bryan Dillon, Co-Secretary"],
+      "Ex-Officio Members": ["Dr. Sheila Quinn, CSD Superintendent", "Ginger Marr, CSD Board of Trustees Vice Chair"]
+    },
+    "Giving": {
+        "Giving-Intro-Header": "Here is how YOU can help make a difference!",
+        "Giving-Intro-Content": "Make a financial contribution to Clover LEAF! \n Your generous contribution to Clover LEAF will support academic excellence and make a meaningful difference to both teachers and students. \n At this time, we are only able to accept donations via check, cash, or NOW CREDIT CARD!",
+        "Giving-Mail-Header": "MAIL YOUR DONATION",
+        "Giving-Mail-Content": "Print out the donation form located below, complete, and return it along with your check to: \n Clover LEAF Foundation, Inc. \n 604 Bethel Street \n Clover, SC 29710",
+        "Link to Donation Form": "dummy-link"
+
+
+    },
+    "News": {
+        "News-Roll" : "The Clover LEAF Foundation is proud to introduce a “Donor Tree” to be displayed at the Clover School District Auditorium.  Check back for more details on how your business or family can share their support of the Clover LEAF Foundation and help fund CSD Teacher Grants. Join us for fundraising events around the community! \n \n Check back for scheduled events. \n\n Many thanks to the following providers who have participated in past Taste of the Town Events! \n \n Carolina Chocolate Company \n Chartwells \n CHS Culinary Arts Program \n Courtney's BBQ \n  The Cove \n Jackson's Kitchen \n Kochi Japanese Steakhouse  \n Lee's Hoagie House \n Main Street Retreat  \n McGill's Feed Room Grill \n Saltwater Markets"
+    },
+    "Contact": {
+    },
+    "Footer": {
+      "What We Do Header": "WHAT WE DO.",
+      "What We Do Info": "The Clover Leaders for Educational Advancement Foundation, Inc. (Clover LEAF) is a non-profit organization dedicated to supporting teachers and students in the Clover School District. We provide grants to teachers to support innovative classroom projects and programs to foster engagement and innovation inside and outside of the school community.",
+      "Contact Header": "CONTACT INFO",  
+      "Contact Info":  {
+        "Address": "Clover LEAF Foundation, Inc. \n 604 Bethel Street \n Clover, SC 29710",
+        "EmailHeader": "Email: ",
+        "EmailAddress": "cloverleafsc@gmail.com"
+      },    
+      
+      "Legal Information": "Clover LEAF is a 501 (c) (3) organization and contributions are tax-deductible to the full extent the law allows. The Foundation does not provide financial support for programs regularly funded by the Clover School District operating budget. Strict management of fiduciary responsibility is a basic tenet of the Foundation."
+    }
+}

@@ -1,0 +1,67 @@
+.container {
+    text-align: left;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .containerInfo {
+    box-sizing: border-box;
+    border-top: 12px solid #e9eaee;
+    background: #363839;
+    position: relative;
+    overflow: hidden;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #3d3d3d;
+    border-color: #e9eaee;
+    padding-top: 43px;
+    padding-bottom: 40px;
+    color: #8C8989;
+
+}
+
+.infoText { 
+    font-family: "Bree Serif";
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 20px;
+    color: #8C8989;
+    box-sizing: border-box;
+    white-space: pre-line;  
+    vertical-align: bottom;
+}
+
+.infoHeader {
+    box-sizing: border-box;
+    margin: 0 0 28px;
+    font: 13px/20px "Bree Serif";
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 13px;
+    color: #DDDDDD;
+}
+
+.leagalInfo {
+
+    font: 13px/20px 'PTSansRegular', Arial, Helvetica, sans-serif;
+    font-family: "Bree Serif", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    color: #747474;
+    background-color: #282A2B;
+    box-sizing: border-box;
+    display: table;
+    width: 100%;
+    padding: 43px 10px 40px;
+}
+ 

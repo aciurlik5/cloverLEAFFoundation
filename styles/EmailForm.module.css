@@ -1,0 +1,20 @@
+.emailFields {
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    float: left;
+    width: 50%;
+
+  }
+
+.emailContent{
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    min-height: 100px;
+    width: 95%;
+    box-sizing: border-box;
+    padding: 5px, 150px, 10px, 15px,;
+}
