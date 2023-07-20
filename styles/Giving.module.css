@@ -1,27 +1,37 @@
 .container {
     text-align: center;
     padding: 10rem;
+    white-space: pre-line;  
 }
 .title {
   font-size: 2rem;
+  white-space: pre-line;  
 }
 .details {
   border: 1px solid #dadada;
   border-radius: .25rem;
   padding: 2rem;
+  white-space: pre-line;  
 }
 .list {
   list-style: none;
   display: flex;
   justify-content: center;
   margin-bottom: 1rem;
+  white-space: pre-line;  
 }
 .label {
     font-size: 1rem;
     color: rgb(66, 66, 66);
+    white-space: pre-line;  
   }
 .value {
   font-size: 1rem;
   margin: 0;
   margin-left: 1rem;
+  white-space: pre-line;  
+}
+
+.formattedContent{
+  white-space: pre-line;  
 }

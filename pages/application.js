@@ -12,7 +12,10 @@ export default function Application(){
 
         <Header></Header>
        <NavBar></NavBar>
-       <p className={styles.content}> {content.Application["Application-Content"]}</p>
+
+
+       <iframe  className={styles.iframe}src="https://survey.k12insight.com/zdm/embed.aspx?val=QsQsTSWWsQPPPsQUPP&key=VsXRVRsSRVsPsPsP"></iframe>
+
        <Footer></Footer>
        <LegalFooter></LegalFooter>  
                 

@@ -6,3 +6,8 @@
     font-family: "Bree Serif";
     white-space: pre-line;  
   }
+
+  .iframe{
+    width: 100%;
+    min-height: 1000px;
+  }

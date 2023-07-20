@@ -30,8 +30,7 @@ export default function Giving(){
 
 
 </Link>
-
-<p>MAIL YOUR DONATION {"\n"}
+<p className={styles.formattedContent}>MAIL YOUR DONATION {"\n"}
         Print out the donation form located below, complete, and return it along with your check to: {"\n"}
         Clover LEAF Foundation, Inc.{"\n"}
         604 Bethel Street{"\n"}
