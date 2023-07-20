@@ -36,7 +36,7 @@ export default function Home() {
            <p>Thousands of students have been positively impacted through innovative projects that, without our financial support, would not have been realized.</p>
       </div>
       <div className={styles.column}>
-      <h2>  <FontAwesomeIcon icon={faUser}  size="2x" /> Our Board Memberss</h2>
+      <h2>  <FontAwesomeIcon icon={faUser}  size="2x" /> Our Board Members</h2>
       <p>Clover LEAF is comprised of volunteer community members who have a love and passion for the students and teachers of the Clover School District.</p>
       </div>
       </div>
@@ -47,6 +47,23 @@ export default function Home() {
        <LegalFooter></LegalFooter>
 
       </main>
+
+
+
+
+      
     </div>
+
+
+
+
+
   )
+
+
+
+
+
 }
+
+
