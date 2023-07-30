@@ -65,3 +65,9 @@
     padding: 43px 10px 40px;
 }
  
+
+.smallNav {
+    list-style-type: none;
+    text-align: center;
+
+}

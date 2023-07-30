@@ -23,7 +23,7 @@ export default function Home() {
   
       </div>
       <div className={styles.donateBanner}>
-        <h1><Link href="https://www.paypal.com/donate?hosted_button_id=QL6W9GJDW9TXW">DONATE TODAY!</Link></h1>
+        <h1><Link href="https://www.paypal.com/donate/?hosted_button_id=CG4WQJDSKMTG4">DONATE TODAY!</Link></h1>
       </div>
 
       <div className={styles.row}>

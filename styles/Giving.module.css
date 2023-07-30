@@ -35,3 +35,11 @@
 .formattedContent{
   white-space: pre-line;  
 }
+
+.donateButton{
+  background-color:  #2e3092;
+  text-align: center;
+  color: white;
+  font-family: "Bree Serif";
+  padding: 1.5rem;
+}

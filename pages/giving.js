@@ -4,7 +4,7 @@ import NavBar from "../components/NavBar"
 import Footer from "../components/Footer"
 import LegalFooter from "../components/LegalFooter"
 import Header from "../components/Header"
-import donateImage from '../resources/DonateNow.png'
+import donateImage from '../resources/DonationQRCode.png'
 import Image from "next/image"
 import Link from 'next/link'
 
@@ -20,7 +20,7 @@ export default function Giving(){
             <p>Your generous contribution to Clover LEAF will support academic excellence and make a meaningful difference to both teachers and students.
         At this time, we are only able to accept donations via check, cash, or NOW CREDIT CARD!</p>
 
-        <Link href='https://www.paypal.com/donate?hosted_button_id=QL6W9GJDW9TXW' passHref>
+        <Link href='https://www.paypal.com/donate/?hosted_button_id=CG4WQJDSKMTG4' passHref>
             <a>
             <Image src={donateImage}       
       alt="Clover LEAF Donate"></Image>
@@ -40,7 +40,7 @@ export default function Giving(){
 
 <Link href="http://www.cloverleaffoundation.net/wp-content/uploads/2015/04/Donation-Form.pdf" passHref>
             <a>
-            <button> DONATION FORM</button>
+            <button className={styles.donateButton}> DONATION FORM</button>
             </a>
 
 

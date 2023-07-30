@@ -18,7 +18,7 @@ export default function Footer() {
 </div>
 <div className={styles.column}> 
 
-<ul>
+<ul className={styles.smallNav}>
       <li><Link href="/about">About</Link></li>
       <li><Link href="/board">Board</Link></li>
       <li><Link href="/giving">Giving</Link></li>

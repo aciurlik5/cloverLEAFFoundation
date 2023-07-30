@@ -22,30 +22,22 @@ export default function Board(){
         <div className={styles.column}>  
         <h2 className={styles.header}>Board Members</h2>
         <p className={styles.content}> 
-        Windy Bartee {"\n"}
-        Gerald Bolin {"\n"}
-        Sherri Ciurlik {"\n"}
-        Jessica Cody {"\n"}
-        Diana Currence {"\n"}
-        Esther Davis {"\n"}
-        Bryan Dillon {"\n"}
-        Jay Dover {"\n"}
-        Frank Gadsden {"\n"}
-        Teresa Glass {"\n"}
-        Jim Gover {"\n"}
-        Dr. Christopher Haring {"\n"}
-        Roberta Herold {"\n"}
-        Jackie Hicks {"\n"}
-        Kelly Hodges {"\n"}
-        Ken Love {"\n"}
-        Kathy MacMahon {"\n"}
-        Ginger Marr, CSD Representative {"\n"}
         Penny McClure {"\n"}
-        Catherine Myrick {"\n"}
-        Franklin Pendleton {"\n"}
-        Cara Tully {"\n"}
-        Scott Wallace {"\n"}
-        Amarintha Whitener {"\n"}
+        Elizabeth Boyd {"\n"}
+        Alicia Griffith {"\n"}
+        Tina Farris {"\n"}
+        Allison Harvey {"\n"}
+        Rodney Tate {"\n"}
+        Freddie Campbell {"\n"}
+        Millicent Dickey {"\n"}
+        Tiran Thomas {"\n"}  
+        Terry Hilderbrand {"\n"}  
+        George Pendleton {"\n"}  
+        Marty Cotton {"\n"}  
+        Ray Scott {"\n"}  
+        Pam Olivieri {"\n"}  
+        Ashley Mosbacher {"\n"}  
+
          </p>
         
         
@@ -56,11 +48,10 @@ export default function Board(){
         <h2 className={styles.header}>Officers</h2>
         <p className={styles.content}> 
         Jackie Hicks, President {"\n"}
-        Sherri Ciurlik, Vice President {"\u2013"} Grants {"\n"}
-        Jessica Cody, Vice President {'\u2013'} Fundraising {"\n"}
-        George Pendleton, Treasurer {"\n"}
-        Wendy Bartee, Co-Secretary {"\n"}
-        Bryan Dillon, Co-Secretary
+        Sherri Ciurlik, Vice President {"\u2013"} Fundraising {"\n"}
+        Catherine Myrick, Vice President {'\u2013'} Grants {"\n"}
+        Kyle Eller, Treasurer {"\n"}
+        Windy Bartee, Secretary
         </p>
 
         <h2 className={styles.header}>
@@ -68,7 +59,12 @@ export default function Board(){
         </h2>
         <p className={styles.content}>
         Dr. Sheila Quinn, CSD Superintendent {"\n"}
-        Ginger Marr, CSD Board of Trustees Vice Chair
+        Rob Wallace, School Board Chair{"\n"}
+        Keron Meeks, School Board Liaison {"\n"}
+        Bryan Dillon {"\n"}
+        Stephanie Knott {"\n"}
+        Franklin Pendleton, Emeritus {"\n"}
+
         </p>
         
         
