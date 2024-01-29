@@ -47,11 +47,13 @@ export default function Board(){
         <div className={styles.column}>  
         <h2 className={styles.header}>Officers</h2>
         <p className={styles.content}> 
-        Jackie Hicks, President {"\n"}
-        Sherri Ciurlik, Vice President {"\u2013"} Fundraising {"\n"}
-        Catherine Myrick, Vice President {'\u2013'} Grants {"\n"}
-        Kyle Eller, Treasurer {"\n"}
-        Windy Bartee, Secretary
+        Kyle J. Eller, President {"\n"}
+        Mary Cotton, Vice President {"\u2013"} Fundraising {"\n"}
+        Dr. Catherine Myric, Vice President {'\u2013'} Grants {"\n"}
+        Alexis Ellis, Treasurer {"\n"}
+        Windy Bartee, Secretary {"\n"}
+        Terry Hilderbrand, Communications {"\n"}
+        
         </p>
 
         <h2 className={styles.header}>
